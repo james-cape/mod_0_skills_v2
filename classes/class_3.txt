@@ -1,0 +1,12 @@
+Class that might exist in a restaurant
+
+Class: Employee
+  Attributes:
+    on_shift(boolean)
+    position(string)
+    pay_per_hour(integer)
+  Methods:
+    TakeTableAssignment
+    CarryFood
+    TakeOrder
+    CarryDrink
