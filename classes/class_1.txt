@@ -1,0 +1,19 @@
+Class that might exist in a restaurant
+
+Class: Drink
+  Attributes:
+    serving_temp(integer)
+    served_with_ice(boolean)
+    container_type(string)
+    fill_level_percent(integer)
+    for_which_table(integer)
+    for_which_customer(integer)
+    cleaned(boolean)
+  Methods:
+    SelectContainerType
+    Fill
+    StopFilling
+    PutIceIn
+    DeliverToTable
+    PlaceInFrontOfCustomer
+    Clean
