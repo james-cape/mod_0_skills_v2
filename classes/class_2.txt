@@ -1,0 +1,14 @@
+Class that might exist in a restaurant
+
+Class: Television
+  Attributes:
+    on(boolean)
+    plugged_in(boolean)
+    on_channel(integer)
+    volume_level(integer)
+  Methods:
+    TurnOn
+    PlugIn
+    RaiseVolume
+    LowerVolume
+    ChangeChannel
