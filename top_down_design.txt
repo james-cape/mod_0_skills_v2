@@ -1,0 +1,73 @@
+Break down the process of getting food at a restaurant.
+
+1. Enter restaurant
+  1.1. Walk to restaurant entrance
+  1.2. Open door
+    1.2.1. Place hand on handle
+    1.2.2. Open door
+  1.3. Walk into reception area
+
+2. Sit down
+  2.1. Acknowledge greeter
+    2.1.1. Engage in brief greetings
+    2.1.2. Wait until they are ready to attend to you
+  2.2. Specify number of people in your party to greeter
+  2.3. Follow greeter to the table
+    2.3.1. Walk five steps behind greeter until they stop at a table
+  2.4. Sit down at table
+    2.4.1. Pull out chair
+    2.4.2. Sit down on chair
+    2.4.3. Scoot chair in until you are comfortable at the table
+
+3. Inspect menu
+  3.1. Pick up menu
+    3.1.1. Place hands on menu
+    3.1.2. Lift menu into a comfortable reading position
+  3.2. Read menu
+    3.2.1. Scan the different options the restaurant has on the menu
+  3.3. Mentally assign food option a likeability score (1-100)
+
+4. Select food
+  4.1. Review food likeability scores
+  4.2. Select food option that scored the highest
+    4.2.1 Determine which food had a higher likeability score than any other food.
+      4.2.1.2. If there is a tie for highest score, choose the food you have not had for the longest amount of time.
+
+5. Order from server
+  5.1. Wait for server to approach table
+  5.2. Wait for server to ask for order
+  5.3. Reply with food option that scored highest on the likeability test
+    5.3.1. Recall in your mind which food scored the highest
+    5.3.2. Vocalize your food option that scored the highest
+  5.4. Tell server when you are done ordering
+
+6. Eat food
+  6.1. Wait for server to bring food to table
+  6.2. Once food arrives, pick up fork
+  6.2. Place food in mouth
+    6.2.1. Stab food with fork
+    6.2.2. Lift food to mouth with fork
+    6.3.3. Place food inside mouth
+    6.4.4. Close mouth around food
+    6.4.5. Pull fork out of mouth
+  6.6. Chew food
+    6.6.1. Keep mouth closed but open jaw
+    6.6.2. Use tongue to shift food between teeth
+    6.6.3. Close jaw so teeth close on food
+    6.6.4. Repeat from 6.6.1 until food is chewed
+  6.7. Swallow food
+  6.8. Repeat from 6.2 until food is gone
+
+7. Leave restaurant
+  7.1. Tell server you are finished
+  7.2. Pay bill
+    7.2.1. Pick up bill
+    7.2.2. Read the total cost
+    7.2.3. Calculate a 20% tip
+    7.2.4. Place the bill on the table
+    7.2.5. Place cash for the bill total cost and the tip on the table
+  7.3. Walk to entrance
+  7.4. Open door
+    7.4.1. Place hand on handle
+    7.4.2. Pull or push depending on sign
+  7.5. Walk through door
